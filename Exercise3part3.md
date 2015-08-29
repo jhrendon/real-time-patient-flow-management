@@ -1,0 +1,2 @@
+In Design, click Refresh on the toolbar to update the open project with the changes that you have just made in Design Data. When you are prompted about updating the assets from the repository, click Cancel because the changes in the repository are older than the changes in Design Data.
+When the project has refreshed, expand the Fields asset to see that there are now two intermediate objects, Car and Customer, which you created in Design Data.

@@ -1,0 +1,3 @@
+# Introduction #
+
+Complex event processing, or CEP, is event processing that combines data from multiple sources to infer events or patterns that suggest more complicated circumstances. In our exercises, you will be using IBM WebSphere Business Events to collect events from Lombardi and eKahau, write rules to analyze and aggregate events, and finally specify what components of the enterprise systems receive these processed events.
